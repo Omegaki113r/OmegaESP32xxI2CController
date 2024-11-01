@@ -1,0 +1,12 @@
+{
+    "psi-header.variables": [
+        [
+            "projectname",
+            "OmegaESP32xxI2CController"
+        ],
+        [
+            "projectCreationYear",
+            "2024"
+        ]
+    ]
+}
