@@ -1,4 +1,4 @@
-set(SOURCES src/OmegaESP32I2CController.c)
+set(SOURCES src/OmegaESP32xxI2CController.c)
 set(PUBLIC_HEADER_DIRS inc)
 set(PRIVATE_HEADER_DIRS priv/inc)
 
